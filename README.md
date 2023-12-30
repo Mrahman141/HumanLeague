@@ -3,7 +3,7 @@
 ## Team Members
 
 [Mohammed Aminoor Rahman](https://github.com/Mrahman141)  
-[Cleo Bueanaventura](https://github.com/cleobnvntra)
+[Cleo Buenaventura](https://github.com/cleobnvntra)
 
 ## What is Human League
 
